@@ -1,0 +1,17 @@
+{
+  "name": "hocpackage",
+  "version": "1.0.0",
+  "description": "hoc package",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hoc",
+    "hoc",
+    "methods"
+  ],
+  "author": "Deepa",
+  "license": "ISC"
+}
